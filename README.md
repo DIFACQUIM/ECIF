@@ -20,6 +20,7 @@ Folders
     Example_Structures: five pairs of protein-ligand complexes
     
 Notes:
+
     1. Receptor PDB files are assumed to contain coordinates for all heavy atoms
     
     2. To avoid errors and ensure correct evaluation of the protein-ligand complexes, it is recommended to prepare the ligands using X-tool and ChemAxon's Standardizer
