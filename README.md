@@ -19,6 +19,8 @@ Folders
 
     Example_Structures: five pairs of protein-ligand complexes
     
+    RawData(Results): csv files needed to reproduce all results shown in the manuscript
+    
 Notes:
 
     1. Receptor PDB files are assumed to contain coordinates for all heavy atoms
